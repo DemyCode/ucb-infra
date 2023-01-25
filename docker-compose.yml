@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  api:
+    image: ucb-tester
+    build: ./UCB-Tester
+    ports:
+      - "8000"
+  redis:
+    image: "redis:alpine"
