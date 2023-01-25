@@ -1,0 +1,3 @@
+[submodule "UCB-Tester"]
+	path = UCB-Tester
+	url = git@github.com-demycode:DemyCode/UCB-Tester.git
