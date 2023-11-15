@@ -1,0 +1,3 @@
+[submodule "ucb-api"]
+	path = ucb-api
+	url = git@github.com-demycode:DemyCode/ucb-api.git
